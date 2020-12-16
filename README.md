@@ -21,7 +21,7 @@ Member in team :desktop_computer:
     <pre>สามารถ run ใน 'Ubuntu 20.04' ได้เลย</pre>
 </ol>
 
-# Build Kernel 
+# Build Kernel for miniproject 1 
 เราต้องทำการ run ใน 'Ubuntu terminal' เท่านั้น  
 
 <ol>
@@ -37,7 +37,7 @@ Member in team :desktop_computer:
   </li>
 </ol>
 
-# Run code for miniproject2+3 (Memory virtualization) 
+# Run code for miniproject 2+3 (Memory virtualization) 
 <ol>
   <li>
       clone repository 
